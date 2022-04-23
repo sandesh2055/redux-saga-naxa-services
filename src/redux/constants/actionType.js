@@ -1,0 +1,5 @@
+export const ActionTypes = {
+    GET_SERVICES : "GET_SERVICES",
+    SERVICE_SUCCESS: "SERVICE_SUCCESS",
+    SCROLL_TOP: "SCROLL_TOP"
+}

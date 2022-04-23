@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+
+.some-class {
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;  
+  margin-top: 40px;
+  margin-right: 5px;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  
+ 
+}
+
+.some-class:hover{ 
+        background-color: #ffdc1c;
+        
+}
+
